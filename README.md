@@ -1,4 +1,6 @@
-<img width="706" height="443" alt="homePage" src="https://github.com/user-attachments/assets/06c86d99-f12e-493f-9381-2b8cdc7fa116" /># 🛍️ ShopLite – Full-Stack E-Commerce Platform
+<img width="706" height="443" alt="homePage" src="https://github.com/user-attachments/assets/06c86d99-f12e-493f-9381-2b8cdc7fa116" />
+
+# 🛍️ ShopLite – Full-Stack E-Commerce Platform
 
 ## 📌 Overview
 
