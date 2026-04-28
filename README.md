@@ -1,4 +1,4 @@
-🛍️ ShopLite – Full-Stack E-Commerce Platform
+## 🛍️ ShopLite – Full-Stack E-Commerce Platform
 📌 Overview
 
 ShopLite is a full-stack e-commerce system designed to simulate real-world online shopping platforms. It demonstrates end-to-end web application development including authentication, product management, shopping cart logic, and order processing using a RESTful API architecture.
