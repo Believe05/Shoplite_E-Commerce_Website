@@ -1,4 +1,4 @@
-# 🛍️ ShopLite – Full-Stack E-Commerce Platform
+<img width="706" height="443" alt="homePage" src="https://github.com/user-attachments/assets/06c86d99-f12e-493f-9381-2b8cdc7fa116" /># 🛍️ ShopLite – Full-Stack E-Commerce Platform
 
 ## 📌 Overview
 
@@ -168,7 +168,8 @@ Backend	Node.js, Express.js, JWT, bcryptjs
 Database	MongoDB, Mongoose ODM
 Security	Helmet.js, CORS, Rate Limiting, Input Validation
 Dev Tools	Nodemon, dotenv, Git
-📸 Screenshots
+
+##📸 Screenshots
 (Add your screenshots here)
 
 text
@@ -179,6 +180,10 @@ screenshots/
 ├── checkout-page.png
 ├── order-history.png
 └── mobile-view.png
+
+
+
+
 👨‍💻 Author
 Developed as a full-stack portfolio project demonstrating real-world e-commerce architecture and secure API design.
 
